@@ -9,3 +9,6 @@ asf asdfklasj fasdklfj asdklj af
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
+
